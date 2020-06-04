@@ -7,3 +7,5 @@ On My Eclipse platform in the Java language using SSH framework for development,
 #Book site，java，Online sales，mysql，Jsp
 
 本设计是以java为开发基础采用SSH框架，并实现页面布局的购物网站，着重对网上销售进行研究，以比较流行的B/S架构模式为技术核心，于该网站的研究进行讲解。本设计中的数据库采用Mysql，选该数据库既可提高系统的安全性与稳定性，同时也考虑到便捷
+
+email：czash@163.com
